@@ -5,7 +5,6 @@
 ## 💫 About Me
 
 I’m a second year computer science student at the University of Liverpool passionate about exploring the realms of coding, machine learning, and building robust applications.
-I enjoy learning through hands-on projects, problem solving, and contributing to open-source.
 
 ## 🚀 What I’m Up To
 
