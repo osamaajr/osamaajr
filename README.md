@@ -2,16 +2,16 @@
 
 
 
-# 💫 About Me
+## 💫 About Me
 
 I’m a second year computer science student at the University of Liverpool passionate about exploring the realms of coding, machine learning, and building robust applications.
 I enjoy learning through hands-on projects, problem solving, and contributing to open-source.
 
 ## 🚀 What I’m Up To
 
-- 🧠 Currently working on **Memory Anchor**, a personal project focused on building practical software features end to end  
-- 💻 Actively developing my skills as a software engineer through hands-on projects, problem solving, and continuous learning  
-- 🌱 Exploring internship and early-career opportunities where I can contribute, learn from experienced engineers, and grow in a real-world environment
+- 🤖 Exploring Machine Learning and App Development
+- 🌱 Seeking internship and early-career opportunities
+- 🧠 Currently working on **Memory Anchor**
 
 
 <!--
