@@ -10,7 +10,7 @@ I’m a second year computer science student at the University of Liverpool pass
 
 - 🤖 Exploring Machine Learning and App Development
 - 🌱 Seeking internship and early-career opportunities
-- 🧠 Currently working on **Memory Anchor**
+- 🧠 Currently working on **Nura**
 
 
 <!--
