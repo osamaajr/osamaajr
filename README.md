@@ -12,6 +12,8 @@ I’m a second year computer science student at the University of Liverpool pass
 - 🌱 Seeking internship and early-career opportunities
 - 🧠 Currently working on **Nura**
 
+  osamaajr.com
+
 
 <!--
 **osamaajr/osamaajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
