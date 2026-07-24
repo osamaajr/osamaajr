@@ -1,4 +1,4 @@
-# Hi I'm Osama 👋
+# Hi I'm Osama 👋🏻
 
 
 
