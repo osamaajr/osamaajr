@@ -4,12 +4,12 @@
 
 ## 💫 About Me
 
-I’m a second year computer science student at the University of Liverpool passionate about exploring the realms of coding, machine learning, and building robust applications.
+I’m a third year computer science student at the University of Liverpool passionate about exploring the realms of coding, machine learning, and building robust applications.
 
 ## 🚀 What I’m Up To
 
-- 🤖 Exploring Machine Learning and App Development
-- 🌱 Seeking internship and early-career opportunities
+- 🤖 Exploring AI and App Development
+- 🌱 Seeking grad and early-career opportunities
 - 🧠 Currently working on **Nura**
 
   osamaajr.com
