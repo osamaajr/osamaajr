@@ -4,6 +4,11 @@
   <img alt="osamaajr's GitHub profile" src="dark_mode.svg" />
 </picture>
 
+
+
+
+<!--
+
 # Hi I'm Osama 👋🏻
 
 
@@ -19,7 +24,9 @@ I’m a third year computer science student at the University of Liverpool passi
 - 🧠 Currently working on **Nura**
 
 
-<!--
+
+
+
 **osamaajr/osamaajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
