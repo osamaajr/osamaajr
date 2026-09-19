@@ -1,10 +1,10 @@
 ### osama
 
-cs @ liverpool.
+cs @ university of liverpool.
 
-building tracer.
+previously swe @ vanguard + doctoria.
 
-previously @ vanguard + doctoria.
+currently building tracer.
 
 [osamaajr.com](https://osamaajr.com)
 
