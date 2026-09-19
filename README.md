@@ -1,3 +1,26 @@
+### osama
+
+computer science @ liverpool.
+
+currently building tracer.
+
+interested in software, systems and ai.
+
+previously @ vanguard + doctoria.
+
+[osamaajr.com](https://osamaajr.com)
+
+
+
+<!--
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="osamaajr's GitHub profile" src="dark_mode.svg" />
+</picture>
+
+
 
 # Hi I'm Osama 👋🏻
 
@@ -12,17 +35,6 @@ I’m a third year computer science student at the University of Liverpool passi
 - 🤖 Exploring AI and App Development
 - 🌱 Seeking grad and early-career opportunities
 - 🧠 Currently working on **Nura**
-
-
-
-<!--
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="osamaajr's GitHub profile" src="dark_mode.svg" />
-</picture>
-
 
 
 
