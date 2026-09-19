@@ -1,14 +1,17 @@
 ### osama
 
-computer science @ liverpool.
+cs @ liverpool
 
-currently building tracer.
+building things i find interesting.
 
-interested in software, systems and ai.
+currently:
+- tracer
+- distributed systems
+- ai tooling
 
-previously @ vanguard + doctoria.
+previously @ vanguard, doctoria
 
-[osamaajr.com](https://osamaajr.com)
+[website](https://osamaajr.com) · [linkedin](YOUR_LINK)
 
 
 
