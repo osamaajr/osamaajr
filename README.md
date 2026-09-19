@@ -1,17 +1,4 @@
-### osama
-
-cs @ liverpool
-
 building things i find interesting.
-
-currently:
-- tracer
-- distributed systems
-- ai tooling
-
-previously @ vanguard, doctoria
-
-[website](https://osamaajr.com) · [linkedin](YOUR_LINK)
 
 
 
