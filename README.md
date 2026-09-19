@@ -1,4 +1,12 @@
-building things i find interesting.
+### osama
+
+cs @ liverpool.
+
+building tracer.
+
+previously @ vanguard + doctoria.
+
+[osamaajr.com](https://osamaajr.com)
 
 
 
