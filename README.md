@@ -2,7 +2,7 @@
 
 cs @ university of liverpool.
 
-previously swe @ vanguard + doctoria.
+previously swe intern @ vanguard + doctoria.
 
 currently building tracer.
 
