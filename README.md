@@ -1,4 +1,4 @@
-### hi im osama
+### hi! i'm osama
 
 cs @ university of liverpool.
 
