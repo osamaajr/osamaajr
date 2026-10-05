@@ -4,7 +4,7 @@ cs @ university of liverpool.
 
 previously swe intern @ vanguard + doctoria.
 
-currently building tracer.
+currently building [tracer](https://github.com/osamaajr/tracer).
 
 [osamaajr.com](https://osamaajr.com)
 
